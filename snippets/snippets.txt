@@ -1,0 +1,22 @@
+
+	{
+	"html": {
+		"prefix": "html",
+		"body": [
+		  "<!DOCTYPE html>",
+		  "<html lang=\"es\">",
+		  "<head>",
+		  "    <meta charset=\"UTF-8\">",
+		  "    <title>Pagina de prueba</title>",
+		  "</head>",
+		  "<body style=\"background-color: black; \">",
+		  "    <div style=\"background-color: white; width: 900px; margin: 0 auto; border-radius: 20px; padding: 30px; \" >",
+		  "        <h1>Mi pagina</h1>",
+		  "    </div>",
+		  "   ",
+		  "</body>",
+		  "</html>"
+		],
+		"description": "html"
+	  }
+}
